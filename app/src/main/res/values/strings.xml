@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BeeFriendZone</string>
+    <string name="web_client_id">425790945637-i54g54cd2me5tnns52e0gah7i1g9r29q.apps.googleusercontent.com</string>
+    <string name="title_activity_show_groups_chats">ShowGroupsChatsActivity</string>
+</resources>

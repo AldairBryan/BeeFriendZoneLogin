@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "425790945637",
+    "project_id": "beefriendzone",
+    "storage_bucket": "beefriendzone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425790945637:android:a195229c6ff1899590498c",
+        "android_client_info": {
+          "package_name": "com.example.beefriendzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425790945637-a5eofuviia98h9f0p947nlde32ijae8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beefriendzone",
+            "certificate_hash": "e626ce33d2835680d2c688e7d173808bb4631132"
+          }
+        },
+        {
+          "client_id": "425790945637-i54g54cd2me5tnns52e0gah7i1g9r29q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtl5fBlgZzQtDwwZ9Yyr5MtNxoRDACpxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425790945637-i54g54cd2me5tnns52e0gah7i1g9r29q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
